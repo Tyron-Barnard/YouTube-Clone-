@@ -13,7 +13,7 @@ This project is a frontend clone of the YouTube platform, replicating the user i
 
 ## Technologies Used
 
-- **React:** Frontend library used for building user interfaces.
+- **HTML:** Markup language for structuring the project's frontend.
 - **CSS:** Styling language for designing the application's appearance.
 - **YouTube API:** Integrated to fetch video data and enable search functionality.
 
