@@ -8,7 +8,6 @@ This project is a frontend clone of the YouTube platform, replicating the user i
 
 - **Homepage:** Mimics YouTube's main page, displaying recommended videos and the user's subscription feed.
 - **Video Playback:** Allows users to play videos with standard playback controls.
-- **Search Functionality:** Enables users to search for videos and channels.
 - **Responsive Design:** Ensures a seamless experience across various devices and screen sizes.
 
 ## Technologies Used
